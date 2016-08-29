@@ -1,0 +1,3 @@
+Site_Name,Longitude(decimal_degrees),Latitude(decimal_degrees),Elevation(meters)
+Fresno_2,-119.773,36.785,100
+UH_Coastal_Center,-95.043,29.388,5
